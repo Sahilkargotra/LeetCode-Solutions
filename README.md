@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sahilkargotra/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sahilkargotra/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0443-string-compression](https://github.com/Sahilkargotra/LeetCode/tree/master/0443-string-compression) |
 ## Binary Search
 |  |
 | ------- |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/Sahilkargotra/LeetCode/tree/master/0273-integer-to-english-words) |
+| [0443-string-compression](https://github.com/Sahilkargotra/LeetCode/tree/master/0443-string-compression) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sahilkargotra/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Sahilkargotra/LeetCode/tree/master/1720-crawler-log-folder) |
 | [2502-sort-the-people](https://github.com/Sahilkargotra/LeetCode/tree/master/2502-sort-the-people) |
