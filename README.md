@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sahilkargotra/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Sahilkargotra/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1293-three-consecutive-odds](https://github.com/Sahilkargotra/LeetCode/tree/master/1293-three-consecutive-odds) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Sahilkargotra/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Sahilkargotra/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Sahilkargotra/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/Sahilkargotra/LeetCode/tree/master/1720-crawler-log-folder) |
@@ -126,8 +127,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Sahilkargotra/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Sahilkargotra/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Sahilkargotra/LeetCode/tree/master/0392-is-subsequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Sahilkargotra/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
