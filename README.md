@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1833-find-the-highest-altitude](https://github.com/Sahilkargotra/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sahilkargotra/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2502-sort-the-people](https://github.com/Sahilkargotra/LeetCode/tree/master/2502-sort-the-people) |
+| [3311-ant-on-the-boundary](https://github.com/Sahilkargotra/LeetCode/tree/master/3311-ant-on-the-boundary) |
 ## Hash Table
 |  |
 | ------- |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sahilkargotra/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Sahilkargotra/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/Sahilkargotra/LeetCode/tree/master/2645-pass-the-pillow) |
+| [3311-ant-on-the-boundary](https://github.com/Sahilkargotra/LeetCode/tree/master/3311-ant-on-the-boundary) |
 ## Math
 |  |
 | ------- |
@@ -156,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-max-consecutive-ones-iii](https://github.com/Sahilkargotra/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Sahilkargotra/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1833-find-the-highest-altitude](https://github.com/Sahilkargotra/LeetCode/tree/master/1833-find-the-highest-altitude) |
+| [3311-ant-on-the-boundary](https://github.com/Sahilkargotra/LeetCode/tree/master/3311-ant-on-the-boundary) |
 ## Depth-First Search
 |  |
 | ------- |
