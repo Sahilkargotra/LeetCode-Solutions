@@ -194,4 +194,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1777-determine-if-two-strings-are-close](https://github.com/Sahilkargotra/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
+## Graph
+|  |
+| ------- |
+| [3189-find-champion-ii](https://github.com/Sahilkargotra/LeetCode/tree/master/3189-find-champion-ii) |
 <!---LeetCode Topics End-->
