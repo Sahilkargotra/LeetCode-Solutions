@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0443-string-compression](https://github.com/Sahilkargotra/LeetCode/tree/master/0443-string-compression) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Sahilkargotra/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Sahilkargotra/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Sahilkargotra/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Binary Search
 |  |
 | ------- |
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1720-crawler-log-folder](https://github.com/Sahilkargotra/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Sahilkargotra/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2502-sort-the-people](https://github.com/Sahilkargotra/LeetCode/tree/master/2502-sort-the-people) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Sahilkargotra/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Stack
 |  |
 | ------- |
