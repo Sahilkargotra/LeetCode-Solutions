@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sahilkargotra/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2502-sort-the-people](https://github.com/Sahilkargotra/LeetCode/tree/master/2502-sort-the-people) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sahilkargotra/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2868-continuous-subarrays](https://github.com/Sahilkargotra/LeetCode/tree/master/2868-continuous-subarrays) |
 | [3311-ant-on-the-boundary](https://github.com/Sahilkargotra/LeetCode/tree/master/3311-ant-on-the-boundary) |
 ## Hash Table
 |  |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sahilkargotra/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2868-continuous-subarrays](https://github.com/Sahilkargotra/LeetCode/tree/master/2868-continuous-subarrays) |
 ## String
 |  |
 | ------- |
@@ -144,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sahilkargotra/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [2868-continuous-subarrays](https://github.com/Sahilkargotra/LeetCode/tree/master/2868-continuous-subarrays) |
 ## Binary Tree
 |  |
 | ------- |
@@ -164,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0643-maximum-average-subarray-i](https://github.com/Sahilkargotra/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sahilkargotra/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Sahilkargotra/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2868-continuous-subarrays](https://github.com/Sahilkargotra/LeetCode/tree/master/2868-continuous-subarrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -205,4 +209,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3189-find-champion-ii](https://github.com/Sahilkargotra/LeetCode/tree/master/3189-find-champion-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/Sahilkargotra/LeetCode/tree/master/2868-continuous-subarrays) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/Sahilkargotra/LeetCode/tree/master/2868-continuous-subarrays) |
 <!---LeetCode Topics End-->
