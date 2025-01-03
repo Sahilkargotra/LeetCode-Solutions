@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1803-average-waiting-time](https://github.com/Sahilkargotra/LeetCode/tree/master/1803-average-waiting-time) |
 | [1833-find-the-highest-altitude](https://github.com/Sahilkargotra/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sahilkargotra/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2358-number-of-ways-to-split-array](https://github.com/Sahilkargotra/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2502-sort-the-people](https://github.com/Sahilkargotra/LeetCode/tree/master/2502-sort-the-people) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sahilkargotra/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2868-continuous-subarrays](https://github.com/Sahilkargotra/LeetCode/tree/master/2868-continuous-subarrays) |
@@ -178,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-max-consecutive-ones-iii](https://github.com/Sahilkargotra/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Sahilkargotra/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1833-find-the-highest-altitude](https://github.com/Sahilkargotra/LeetCode/tree/master/1833-find-the-highest-altitude) |
+| [2358-number-of-ways-to-split-array](https://github.com/Sahilkargotra/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [3311-ant-on-the-boundary](https://github.com/Sahilkargotra/LeetCode/tree/master/3311-ant-on-the-boundary) |
 ## Depth-First Search
 |  |
