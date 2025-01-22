@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1798-max-number-of-k-sum-pairs](https://github.com/Sahilkargotra/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1803-average-waiting-time](https://github.com/Sahilkargotra/LeetCode/tree/master/1803-average-waiting-time) |
 | [1833-find-the-highest-altitude](https://github.com/Sahilkargotra/LeetCode/tree/master/1833-find-the-highest-altitude) |
+| [1876-map-of-highest-peak](https://github.com/Sahilkargotra/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sahilkargotra/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/Sahilkargotra/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2502-sort-the-people](https://github.com/Sahilkargotra/LeetCode/tree/master/2502-sort-the-people) |
@@ -129,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Sahilkargotra/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Sahilkargotra/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1876-map-of-highest-peak](https://github.com/Sahilkargotra/LeetCode/tree/master/1876-map-of-highest-peak) |
 ## Tree
 |  |
 | ------- |
@@ -201,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sahilkargotra/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Sahilkargotra/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Sahilkargotra/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1876-map-of-highest-peak](https://github.com/Sahilkargotra/LeetCode/tree/master/1876-map-of-highest-peak) |
 ## Database
 |  |
 | ------- |
