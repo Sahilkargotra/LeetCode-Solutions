@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sahilkargotra/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0768-partition-labels](https://github.com/Sahilkargotra/LeetCode/tree/master/0768-partition-labels) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Sahilkargotra/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Sahilkargotra/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Sahilkargotra/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sahilkargotra/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Sahilkargotra/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Sahilkargotra/LeetCode/tree/master/0443-string-compression) |
+| [0768-partition-labels](https://github.com/Sahilkargotra/LeetCode/tree/master/0768-partition-labels) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Sahilkargotra/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Sahilkargotra/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Sahilkargotra/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
@@ -73,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sahilkargotra/LeetCode/tree/master/0011-container-with-most-water) |
+| [0768-partition-labels](https://github.com/Sahilkargotra/LeetCode/tree/master/0768-partition-labels) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Sahilkargotra/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Sahilkargotra/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sahilkargotra/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -112,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0273-integer-to-english-words](https://github.com/Sahilkargotra/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0392-is-subsequence](https://github.com/Sahilkargotra/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Sahilkargotra/LeetCode/tree/master/0443-string-compression) |
+| [0768-partition-labels](https://github.com/Sahilkargotra/LeetCode/tree/master/0768-partition-labels) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Sahilkargotra/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sahilkargotra/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Sahilkargotra/LeetCode/tree/master/1720-crawler-log-folder) |
