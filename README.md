@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2502-sort-the-people](https://github.com/Sahilkargotra/LeetCode/tree/master/2502-sort-the-people) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sahilkargotra/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2868-continuous-subarrays](https://github.com/Sahilkargotra/LeetCode/tree/master/2868-continuous-subarrays) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Sahilkargotra/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Sahilkargotra/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3311-ant-on-the-boundary](https://github.com/Sahilkargotra/LeetCode/tree/master/3311-ant-on-the-boundary) |
 ## Hash Table
